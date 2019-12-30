@@ -5,6 +5,9 @@ Notes
   - Option 1: go to https://github.com/jamjpan/GTree for how to build a G-tree
   - Option 2: send me an email and I will send you the G-tree
 - Sizes:
-  - Beijing:    295 MB
-  - Chengdu:     25 MB
-  - Manhattan:   11 MB
+    Road        G-tree   #edges #vertices
+    =====================================
+    Beijing:    295 MB  743,822   351,290
+    Chengdu:     25 MB   73,854    33,609
+    Manhattan:   11 MB   31,444    12,320
+    Chengdu(sm): 17 KB      104        46
