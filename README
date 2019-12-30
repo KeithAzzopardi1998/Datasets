@@ -1,0 +1,10 @@
+Notes
+
+- Datasets are organized by road network
+- You must obtain a G-tree for each road network you want to use with Jargo
+  - Option 1: go to https://github.com/jamjpan/GTree for how to build a G-tree
+  - Option 2: send me an email and I will send you the G-tree
+- Sizes:
+  - Beijing:    295 MB
+  - Chengdu:     25 MB
+  - Manhattan:   11 MB
