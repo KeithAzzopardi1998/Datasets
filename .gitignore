@@ -1,3 +1,4 @@
 *.gtree
 GTree/
-
+__pycache__/
+.vscode/
