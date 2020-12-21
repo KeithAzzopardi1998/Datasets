@@ -26,6 +26,7 @@ def saveInstance(filename,c_df,v_df):
 
     df = pd.concat([v_df, c_df], ignore_index=True)
     df=df.astype(int)
+    df['id']=range(1,len(df)+1)
     df.to_csv(filename,
         sep='\t',
         index=False,
